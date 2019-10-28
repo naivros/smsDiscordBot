@@ -1,4 +1,5 @@
 **smsDiscordBot**
+
 Future changes:
   Multiple guilds,
   Splitting messages after max character length,
