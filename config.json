@@ -1,0 +1,10 @@
+{
+    "user" : "username", //name that bot will call you
+    "to": "******************", // phoneNumber@provider.com
+                                /* If confused read this: https://kb.sandisk.com/app/answers/detail/a_id/17056/~/list-of-mobile-carrier-gateway-addresses */
+    "from":"******************", //email username
+    "pass":"******************", //email password
+    "token":"****************************************************" //bot token
+}
+
+//remove all comments from this file before attempting to initialize server. **

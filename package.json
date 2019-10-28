@@ -1,0 +1,17 @@
+{
+  "name": "smsbot",
+  "version": "1.0.0",
+  "description": "IRC Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Payton Miller",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "gmail-send": "^1.2.13",
+    "mail-notifier": "^0.5.0",
+    "mailparser": "^2.2.0"
+  }
+}
